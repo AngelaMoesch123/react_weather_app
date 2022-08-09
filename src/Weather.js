@@ -25,15 +25,15 @@ export default function Weather() {
       <h1>San Diego</h1>
       <ul>
         <li> Wednesday 07:00</li>
-        <li> Sunny</li>
+        <li> Mostly Cloudy</li>
       </ul>
 
-      <div className="row mt-3">
+      <div className="row">
         <div className="col-6">
           <div className="clearfix">
             <img
-              src="https://assets.msn.com/weathermapdata/1/static/svg/72/v2/card_fix_partlysunny/SunnyDayV3.svg"
-              alt="Sunny"
+              src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
+              alt="Mostly Cloudy"
               className="float-left"
             />
 
